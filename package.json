@@ -1,0 +1,18 @@
+{
+  "name": "gulp-coffee-webpack",
+  "version": "0.0.1",
+  "description": "Example build",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.4.9",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.0",
+    "gutil": "^1.6.4",
+    "ng-annotate-webpack-plugin": "^0.1.2",
+    "webpack": "^1.12.11"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Eden Sun"
+}
