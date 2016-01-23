@@ -1,7 +1,7 @@
 ngAnnotatePlugin = require 'ng-annotate-webpack-plugin'
  
 module.exports = 
-  entry: './src/wpt.coffee'
+  entry: './src/example.coffee'
   devtool: 'source-map'
   watch: true
   output:
