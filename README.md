@@ -1,4 +1,4 @@
-# example for angular 1.x
+# webpack example for angular 1.x
 scripts and all setting are using coffeescript    
 
 ## why need gulp ?    
